@@ -1,0 +1,7 @@
+Release
+Debug
+build
+.vs
+*.user
+/01-simple/CMakeCache.txt
+/01-simple/CMakeFiles/*.check_cache

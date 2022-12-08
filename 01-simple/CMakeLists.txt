@@ -13,7 +13,7 @@ project(
   VERSION 1.0
   LANGUAGES CXX)
   
-set( CMAKE_DEBUG_POSTFIX  "_d" )
+set( CMAKE_DEBUG_POSTFIX  "d" )
 
 add_library(MyLib myLib.cpp myLib.hpp)
 
